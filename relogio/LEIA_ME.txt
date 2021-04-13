@@ -1,0 +1,4 @@
+Alexandre Aparecido Scrocaro Junior 
+Pedro Acácio Rodrigues
+
+No logisim, algumas vezes o programa abre bugado, é necessário desativar a simulação e depois ativá-la novamente para funcionar, ou até mesmo fechar e abrir o logisim.
